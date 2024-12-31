@@ -32,7 +32,8 @@ function ProblemsSolutions() {
 
 
     return (
-        <div className="mx-auto py-14 px-4 sm:px-6 md:px-20 lg:px-32 min-h-96 mb-4 w-full overflow-hidden relative " style={{ backgroundColor: '#D4D0D6' }}>
+        // md:px-20
+        <div className="mx-auto py-14 px-4 sm:px-6  lg:px-32 min-h-96 mb-4 w-full overflow-hidden relative " style={{ backgroundColor: '#D4D0D6' }}>
             {/* Header Section */}
             <div className="flex flex-col justify-center items-center my-6 text-center">
                 <p className="text-lg text-gray-600 tracking-wide">Open the door to the future</p>

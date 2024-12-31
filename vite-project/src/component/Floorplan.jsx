@@ -2,7 +2,7 @@ import React from 'react'
 
 function Floorplan() {
     return (
-        <div className="mx-auto py-14 md:px-20 lg:px-32 min-h-96 mb-4 w-full overflow-hidden relative">
+        <div className="mx-auto py-14 md:px-14 lg:px-32 min-h-96 mb-4 w-full overflow-hidden relative">
         <div
           className=" flex flex-col md:flex-row justify-around items-center gap-8"
           style={{ display: "flex", justifyContent: "space-around", alignItems: "center" }}

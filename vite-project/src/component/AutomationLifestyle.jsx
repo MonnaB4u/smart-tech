@@ -38,7 +38,8 @@ function AutomationLifestyle() {
   const [datas, setDatas] = useState(data);
 
   return (
-    <div className="mx-auto py-14 px-4 sm:px-6 md:px-20 lg:px-32 min-h-96 mb-4 w-full overflow-hidden relative">
+     // md:px-20
+    <div className="mx-auto py-14 px-4 sm:px-6  lg:px-32 min-h-96 mb-4 w-full overflow-hidden relative"> 
 
       <div className="text-center mb-12">
         <p className="text-gray-600 text-lg font-bold sm:text-3xl md:text-4xl mb-4 md:w-3/4 w-full mx-auto">
